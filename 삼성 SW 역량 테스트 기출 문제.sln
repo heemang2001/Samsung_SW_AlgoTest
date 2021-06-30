@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "삼성 SW 역량 테스트 기출 문제", "삼성 SW 역량 테스트 기출 문제\삼성 SW 역량 테스트 기출 문제.vcxproj", "{FD4964AC-94C9-4B39-BB55-12B169FA863B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD4964AC-94C9-4B39-BB55-12B169FA863B}.Debug|x64.ActiveCfg = Debug|x64
+		{FD4964AC-94C9-4B39-BB55-12B169FA863B}.Debug|x64.Build.0 = Debug|x64
+		{FD4964AC-94C9-4B39-BB55-12B169FA863B}.Debug|x86.ActiveCfg = Debug|Win32
+		{FD4964AC-94C9-4B39-BB55-12B169FA863B}.Debug|x86.Build.0 = Debug|Win32
+		{FD4964AC-94C9-4B39-BB55-12B169FA863B}.Release|x64.ActiveCfg = Release|x64
+		{FD4964AC-94C9-4B39-BB55-12B169FA863B}.Release|x64.Build.0 = Release|x64
+		{FD4964AC-94C9-4B39-BB55-12B169FA863B}.Release|x86.ActiveCfg = Release|Win32
+		{FD4964AC-94C9-4B39-BB55-12B169FA863B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B456E57E-AD67-452A-BAE0-CCF4F5EC1C73}
+	EndGlobalSection
+EndGlobal
